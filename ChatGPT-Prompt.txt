@@ -1,0 +1,45 @@
+wir erstellen ein komplettes website projekt.
+
+Angaben zur Firma:
+
+Firmenname: Solvia GmbH
+Adresse: Im Grossacher 14, 8127 Forch, Schweiz
+telefonnummer: +41 44 885 00 10
+email: info@solvia.ch
+Name des Geschäftsführers: Christian Casutt
+UID: CHE-213.444.525
+
+Ziel und Zweck der Seite ist informationsbereitstellung und lead-generierung. die besucheranzahl soll gross sein.
+
+Zielgruppe ist Informatik. Dienstleistungen, Projekte. Es soll vermittelt werden, dass die solvia alles aus einer hand bietet. die kunden der solvia können die gesamte IT von der Solvia verwalten lassen und so kann sich der kunde um sein geschäft (seine kernkompetenz) kümmern.
+
+SEO Strategie bitte berücksichtigen. SEO-Optimierung: Keywords, Meta-Tags, Alt-Texte, URL-Struktur.
+
+ChatGPT. Deine Aufgabe ist es, ein komplettes website konzept zu erstellen. dieses beinhaltet: 
+- layout der website
+- struktur der website
+- Menu/navigation der website
+- für die einzelnen seiten erstellst du den content. Pro seite definierst du: Title, Headings, Content und grafische elemente. ebenfalls definierst du, ob und wo auf einer seite ein Call-To-action oder sonstiges element platziert warden soll.
+- Du definierst pro seite SEO optimierte URLs
+
+Du gehst in schritten vor. jeder schritt wird von mir begutachtet. wenn ich mit deiner arbeit zufrieden bin, dann sage ich dir, dass du einen weiteren schritt machen kannst. falls ich nicht zufrieden bin, dann werde ich dir dies mitteilen und du folgst meinen anweisungen indem dies was ich bemängle korrigierst.
+
+folgende schritt:
+
+1. du erklärst mir, was deine Aufgabe ist. dies anhand meiner beschreibung die ich dir soeben geliefert habe
+2. du definierst das layout und die struktur der website. dabei lieferst du neben all dem was deiner meinung nach wichtig und zu berücksichtigen ist den header und den footer.
+3. du definierst das menu/die navigation. 
+4. du definierst den footer und den header der website im detail
+5. du definierst die einzelnen seiten. jede seite lieferst du in einem separaten schritt. wenn ich mit deiner arbeit zufrieden bin, dann sage ich dir, dass du einen weiteren schritt machen kannst. falls ich nicht zufrieden bin, dann werde ich dir dies mitteilen und du folgst meinen anweisungen indem dies was ich bemängle korrigierst.
+
+
+Deine arbeit soll zeitgereicht (jahr 2024) und modern sein. wie einleitend beschrieben, verfolgst und berücksichtist du folgendes: Ziel und Zweck der Seite ist informationsbereitstellung und lead-generierung. die besucheranzahl soll gross sein.
+
+hast du fragen oder verbesserungsvorschläge zu den von mir bereitgestellten information und angaben beziehungsweise der geschilderten anforderungen?
+
+---
+
+Impressum
+Datenschutzrichtlinien
+AGBs
+DSGVO
